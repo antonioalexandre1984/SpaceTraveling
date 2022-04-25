@@ -19,8 +19,8 @@
 ## Visão geral do projeto
 
 <div align="center">
-  <img src="github/images/spacetraveling-home.png" alt="home">
-  <img src="github/images/spacetraveling-post.png" alt="post">
+  <img src="github/images/1.jpg" alt="home">
+  <img src="github/images/2.jpg" alt="post">
 </div>
 
 ## Sobre o projeto
@@ -83,4 +83,4 @@ Para que seja possível fazer o download das depêdencias do projeto, recomendam
 <br/>
 <h4 align="center"><a href="#top">Voltar ao Início</a></h4>
 
-<p align="right">"Estabilidade não existe" - Flavio Augusto</p>
+
