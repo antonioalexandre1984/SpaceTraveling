@@ -25,12 +25,12 @@
 
 ## Sobre o projeto
 
-Apenas um projeto para fixar os conhecimentos adquiridos com Next.js e suas features. Aplicando métodos como getServerSideProps,
+Projeto onde atulizamos os conhecimentos adquiridos com Next.js e suas features. Aplicando métodos como getServerSideProps,
 getStaticPaths, e getStaticProps. Quanto ao getStaticProps, o mesmo deve vir sempre acompanhado do getStaticPaths, para que seja
 possível recuperar os dados que vem através do parâmetros: `getStaticProps = ({params}) => {}`. É importante lembrar de informar
 o atríbuto `revalidate` presente nos retornos dos métodos `getStaticProps` e `getServerSideProps`.
 
-Resfrescando a memória sobre como o fallback funciona, sendo que `fallback: 'blocking'` tem a capacidade de buscar informações
+Trabalhamos com conceitos de como o fallback funciona, sendo que `fallback: 'blocking'` tem a capacidade de buscar informações
 que ainda não foram requisitadas por nenhum cliente, e faz isso do lado de servidor; `fallback:true`, é muito semelhante ao
 fallback citado anteriomente, mas seu processamento acontece do lado do cliente, o que pode ser ruim para SEO podendo também,
 causar layout shift. Quanto ao `fallback: false`, o mesmo não faz nenhum tipo de processamento, apenas retorna o que já foi
