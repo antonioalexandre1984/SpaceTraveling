@@ -53,7 +53,7 @@ Instruções de instalação do projeto em seu computador.
 Clone este repositório utilizando o comando a seguir. Lembre-se, você deve possuir a CLI do git instalada em seu computador.
 
 ```sh
-git clone https://github.com/antonioalexandre1984/Rocketseat_ignite2022_React_Chapter_03_Challenger01.git
+git clone https://github.com/antonioalexandre1984/SpaceTraveling.git
 ```
 Para que seja possível fazer o download das depêdencias do projeto, recomendamos a utilização de um package mananger:
 
